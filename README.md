@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/ShortStickBoy/Decoration.svg)](https://jitpack.io/#ShortStickBoy/Decoration)
 [![](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-A nice coupon view that you can customize for some properties.
+A tool to help the RecyclerView's item add horizontal and vertical space.
 
 ### ScreenShot
 <a href="screenshot/Demo1.png"><img src="screenshot/Demo1.png"/></a>  <a href="screenshot/Demo2.png"><img src="screenshot/Demo2.png"/></a>
